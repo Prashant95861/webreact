@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/webreact/static/css/main.79170a84.chunk.css",
+    "main.js": "/webreact/static/js/main.5b9ba064.chunk.js",
+    "main.js.map": "/webreact/static/js/main.5b9ba064.chunk.js.map",
+    "runtime-main.js": "/webreact/static/js/runtime-main.77ad36e4.js",
+    "runtime-main.js.map": "/webreact/static/js/runtime-main.77ad36e4.js.map",
+    "static/js/2.373f579a.chunk.js": "/webreact/static/js/2.373f579a.chunk.js",
+    "static/js/2.373f579a.chunk.js.map": "/webreact/static/js/2.373f579a.chunk.js.map",
+    "index.html": "/webreact/index.html",
+    "static/css/main.79170a84.chunk.css.map": "/webreact/static/css/main.79170a84.chunk.css.map",
+    "static/js/2.373f579a.chunk.js.LICENSE.txt": "/webreact/static/js/2.373f579a.chunk.js.LICENSE.txt",
+    "static/media/we.26ba45de.png": "/webreact/static/media/we.26ba45de.png",
+    "static/media/we2.87d63e5b.png": "/webreact/static/media/we2.87d63e5b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ad36e4.js",
+    "static/js/2.373f579a.chunk.js",
+    "static/css/main.79170a84.chunk.css",
+    "static/js/main.5b9ba064.chunk.js"
+  ]
+}
