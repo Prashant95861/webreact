@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.row{
+    margin: 0;
+}
+.navweb{
+    padding-left: 0.4rem;
+}
+.active_classs{
+    color: rgb(18, 85, 112);
+}
+.navtitle{
+    color: rgb(18, 85, 112);
+    text-decoration: none;
+    font-size: 1.4rem;
+}
+.navtitle:hover{
+    text-decoration: none;
+}
+.heroweb{
+    margin-top: 9%;
+}
+.herowebright{
+    animation: myfirst 2s linear 2s infinite alternate;
+}
+@keyframes myfirst {
+    0%   { bottom:10px;} 
+    100% { bottom:-10px;}
+}
+.webb{
+    background-color: white;
+    border: 1px solid blue;
+    padding: 0.4rem 1.6rem;
+    border-radius: 25px;
+    outline: none;
+}
+.webb:hover{
+    background-color: rgb(29, 123, 160);
+    border:none;
+    color: white;
+}
+.webcon input{
+    border: 1px solid black;
+}
+.webcon input::placeholder{
+    float: left;
+    margin-left: 3px;
+}
+.webcon textarea{
+    border: 1px solid black;
+    margin-bottom: 1rem;
+    padding-left: 9px;
+    padding-top: 2px;
+}
+.webcon button{
+    padding: 0.4rem 1rem;
+}
